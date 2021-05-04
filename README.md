@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hola :)
+## Mi nombre es Daniel Núñez
+## Estudio la carrera de Ingeniería en Sistemas en la Escuela Superior de Cómputo del Insituto Politécnico Nacional 
+## Mis apodos son : Maldad, Malty, Dany.
+
+## Habilidades que estoy desarrollando:
++ Curso Python 3
++ Curso Innovaccion (Azure)
+
+## Gustos
++ Música
++ Tecnología
++ Electrónica
+
 
 <!--
 **ernestoregue/ernestoregue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
