@@ -2,15 +2,15 @@
 ## Mi nombre es Daniel Núñez 
 ## Estudio Ingeniería en Sistemas en ESCOM-IPN 
 ### Mis apodos son : Maldad, Malty, Dany.
-
+----------------------------------------------------
 > Habilidades que estoy desarrollando:
-+ Curso Python 3
-+ Curso Innovaccion (Azure)
-
-## Gustos
-+ Música
-+ Tecnología
-+ Electrónica
++ Curso Python 3 🐍
++ Curso Innovaccion (Azure) 🔽
+-----------------------------------------------------
+> Gustos
++ Música 🎶
++ Tecnología 📍
++ Electrónica 🔌
 
 
 <!--
