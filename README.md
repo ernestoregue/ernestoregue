@@ -6,6 +6,8 @@
 > Habilidades que estoy desarrollando:
 + Curso Python 3 🐍
 + Curso Innovaccion (Azure) 🔽
++ Prácticas de escuela 📔
++ Proyectos personales (a la brevedad) ‼
 -----------------------------------------------------
 > Gustos
 + Música 🎶
