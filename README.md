@@ -1,9 +1,9 @@
-### Hola :)
-## Mi nombre es Daniel Núñez
-## Estudio la carrera de Ingeniería en Sistemas en la Escuela Superior de Cómputo del Insituto Politécnico Nacional 
-## Mis apodos son : Maldad, Malty, Dany.
+# Hola :)
+## Mi nombre es Daniel Núñez 
+## Estudio Ingeniería en Sistemas en ESCOM-IPN 
+### Mis apodos son : Maldad, Malty, Dany.
 
-## Habilidades que estoy desarrollando:
+> Habilidades que estoy desarrollando:
 + Curso Python 3
 + Curso Innovaccion (Azure)
 
