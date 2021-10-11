@@ -4,10 +4,10 @@
 ### Mis apodos son : Maldad, Malty, Dany.
 ----------------------------------------------------
 > Habilidades que estoy desarrollando:
-+ Curso Python 3 🐍
-+ Curso Innovaccion (Azure) 🔽
++ Curso JS, TS, React
 + Prácticas de escuela 📔
-+ Proyectos personales (a la brevedad) ‼
++ Desarrollo web
++ Bootstrap studio
 -----------------------------------------------------
 > Gustos
 + Música 🎶
