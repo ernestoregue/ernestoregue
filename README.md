@@ -1,15 +1,3 @@
-![Adobe_Express_20231208_1655270_1](https://github.com/ernestoregue/ernestoregue/assets/45320713/4f00b9d6-9873-4b32-96eb-be84ebd1642a)
-## Estudié Ingeniería en Sistemas en ESCOM-IPN 
-### Mis apodos son : Maldad, Malty, Dany.
-### Pronombres: él, de él, de ellos
-----------------------------------------------------
-Trabajando en Krannich Solar México como Gestor de Sistemas
-----------------------------------------------------
-> Habilidades que estoy desarrollando:
-+ Desarrollo web
-+ Aprendizaje en Frameworks
-+ Bots y automatización
------------------------------------------------------
 > Gustos
 + Música 🎶
 + Tecnología 📍
